@@ -4,6 +4,9 @@
 
 ServeInStyle is a comprehensive restaurant billing system developed using Python and Tkinter. This application facilitates the seamless management of customer orders, billing, and SMS notifications for order confirmations. It is designed to enhance the efficiency of restaurant operations by providing an intuitive and user-friendly interface for order and billing management.
 
+![image](https://github.com/user-attachments/assets/43e957bf-0598-4719-981d-372a531307e7)
+
+
 ## Features
 
 - **Order Management**: Easily add, update, and delete items from the order list.
